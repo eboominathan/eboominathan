@@ -3,10 +3,10 @@
   ## Senior Fullstack Developer :rocket:   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
  
 
-- 🔭 I’m currently working on Phnom Penh , Cambodia
-- 🌱 I’m currently working in  Flutter &  GoLang
+- 🔭 I’m currently working on Chennai,India
+- 🌱 I’m currently working in  GoLang with React/Angular/Vue Technologies 
 - 👯 I’m looking to collaborate on other developers
-- ⚡️ Fun fact I love to play cricket and volleyball.
+- ⚡️ Fun fact I love to learn new technologies .
 
 | SNo| Languages/Framework     | SNo| Languages/Framework     | SNo| Languages/Framework     | SNo| Languages     |             
 |-----:|---------------|------|---------------|------|---------------|------|---------------|
