@@ -3,7 +3,7 @@
   ## Senior Fullstack Developer :rocket:   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
  
 
-- 🔭 I’m currently working on Chennai,India
+- 🔭 I’m currently working on Coimbatore,India
 - 🌱 I’m currently working in  GoLang with React/Angular/Vue Technologies 
 - 👯 I’m looking to collaborate on other developers
 - ⚡️ Fun fact I love to learn new technologies .
