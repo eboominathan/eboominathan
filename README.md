@@ -4,7 +4,7 @@
  
 
 - 🔭 I’m currently working on Coimbatore,India
-- 🌱 I’m currently working in  GoLang with React/Angular/Vue Technologies 
+- 🌱 I’m currently working in  GoLang with Next Js
 - 👯 I’m looking to collaborate on other developers
 - ⚡️ Fun fact I love to learn new technologies .
 
