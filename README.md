@@ -21,3 +21,7 @@
 ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/eboominathan)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eboominathan&layout=compact)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eboominathan)
+
+🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eboominathan)](https://github.com/eboominathan/github-profile-trophy)
