@@ -10,7 +10,7 @@
 
 | SNo| Languages/Framework     | SNo| Languages/Framework     | SNo| Languages/Framework     | SNo| Languages     |             
 |-----:|---------------|------|---------------|------|---------------|------|---------------|
-|     1|   GoLang     |     2| Gin,Gorm      |     3|   Nest  js   |     4| PHP,Laravel,Codeigniter   |
+|     1|   GoLang,Gin,Gorm     |     2| Python,Django,DRF      |     3|   Nest  js   |     4| PHP,Laravel,Codeigniter   |
 |     5| Express Js    |     6| MongoDB       |     7| Next Js       |     8| MYSQL         |
 |     9| RabbitMQ      |    10| Kafka         |    11| TypeORM       |    12| Prisma        |
 |     13| Fiber      |    14| Irish         |    15| Node Js        |    16|   React      |
