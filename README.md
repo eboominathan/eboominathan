@@ -4,7 +4,7 @@
  
 
 - 🔭 I’m currently working on Coimbatore,India
-- 🌱 I’m currently working in  Django & Nextjs
+- 🌱 I’m currently working in  Django , Astro js & Next js
 - 👯 I’m looking to collaborate on other developers
 - ⚡️ Fun fact I love to learn new technologies .
 
