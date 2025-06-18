@@ -1,9 +1,9 @@
 # Hi 👋 , I'm Boominathan 
  
-  ## Senior Fullstack Developer :rocket:   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
+  ## Senior Engineering Lead :rocket:   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
  
 
-- 🔭 I’m currently working on Coimbatore,India
+- 🔭 I’m currently working on Bangalore,India
 - 🌱 I’m currently working in  Django , Astro js & Next js
 - 👯 I’m looking to collaborate on other developers
 - ⚡️ Fun fact I love to learn new technologies .
